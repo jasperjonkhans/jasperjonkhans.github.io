@@ -1,0 +1,24 @@
+**Definieren Sie das Softwareprodukt** 
+
+automatisierter CV refiner 
+
+Welche Funktionen hat Ihre Anwendung?
+
+man kann seinen CV hochladen und bekommt eine automatisierte CV kritik
+
+Wer ist die Zielgruppe?
+
+Leute die interesse an einem professionellen CV haben
+
+Definieren Sie Ihr Unternehmen
+
+CVrefine
+
+wien 1070
+
+2
+
+Definieren Sie das Geschaeftsmodell 
+
+Einmalkauf
+
